@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="73px" viewBox="0 0 68 73" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>hypercube</title>
+    <defs>
+        <path d="M0,0 L115,0 L115,115 L0,115 L0,0 Z" id="path-1"></path>
+        <path d="M0,0 L66,0 L66,69 L0,69 L0,0 Z" id="path-2"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Frame" transform="translate(-24, -21)" xlink:href="#path-1">
+            <use fill="#FFFFFF" xlink:href="#path-1"></use>
+            <g id="hypercube" transform="translate(25, 23)" xlink:href="#path-2" stroke="#000000" stroke-width="1">
+                <g id="Group">
+                    <polygon id="Path-2" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" points="33 1.34070792e-15 65 17.5 33 35 1 17.5"></polygon>
+                    <polyline id="Path-2" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" points="65 52 33 69 1 52"></polyline>
+                    <line x1="65" y1="18" x2="65" y2="52" id="Path-3" stroke-width="2.5"></line>
+                    <line x1="1" y1="18" x2="1" y2="52" id="Path-4" stroke-width="2.5"></line>
+                    <line x1="32" y1="34" x2="32" y2="69" id="Path-5" stroke-width="2.5"></line>
+                    <polyline id="Path-6" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" points="1 52 17 43 33 52 49 43 65 52"></polyline>
+                    <polyline id="Path-7" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" points="16 42 16 24.6666667 32 16 48 24.6666667 48 42"></polyline>
+                    <line x1="32" y1="0" x2="32" y2="16" id="Path-8" stroke-width="2.5"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
